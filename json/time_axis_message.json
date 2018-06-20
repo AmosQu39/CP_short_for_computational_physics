@@ -1,0 +1,7 @@
+{
+    "time_axis": [{
+        "total_time": 100,
+        "time_interval": 0.005,
+        "time_node_1": 0.5
+    }]
+}

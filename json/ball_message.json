@@ -1,0 +1,14 @@
+{
+    "ball": [{
+        "position_xmin": 0.45,
+        "position_xmax": 0.55,
+        "position_ymin": 0.50,
+        "position_ymax": 0.80,
+        "velocity_xmin": -0.1,
+        "velocity_xmax": 0.1,
+        "velocity_ymin": -0.1,
+        "velocity_ymax": 0.1,
+        "radius_min": 0.01,
+        "radius_max": 0.01
+    }]
+}

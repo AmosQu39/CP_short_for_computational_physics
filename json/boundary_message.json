@@ -1,0 +1,8 @@
+{
+    "boundary": [{
+        "boundary_xmin": 0,
+        "boundary_xmax": 1,
+        "boundary_ymin": 0,
+        "boundary_ymax": 1
+    }]
+}

@@ -1,0 +1,16 @@
+### balls ###
+
+# spyder
+
+.spyproject
+
+# data
+
+data/
+branch
+
+# bin 
+
+__pycache__
+
+
